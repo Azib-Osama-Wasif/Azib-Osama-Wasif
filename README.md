@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dragons Of Midgard](https://dragonsofmidgard.com)
 
-- 🌱 I’m currently learning **JavaScript, React, NodeJS, web3, Solidity**
+- 🌱 I’m currently learning **Flutter, Blueprint Visual Scripting, UE Animation**
 
 - 📫 How to reach me **azib_wasif@outlook.com**
 
